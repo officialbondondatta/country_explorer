@@ -2,5 +2,15 @@
     border: 2px solid green;
     border-radius: 10px;
     margin: 10px;
-    padding: 5px
+    padding: 5px;
+    transition: all;
+    transition-duration: 1s;
+}
+
+.country-visited {
+    background-color: darkorange;
+    color: aliceblue;
+    border: 2px solid black;
+    transition: all;
+    transition-duration: 1s;
 }
